@@ -7,7 +7,7 @@ We train the model by providing it with midi files which are converted to matrix
 Above image shows us at what time_step which respective key is being pressed.
 This in then converted to matrix to provide it to Encoder for generating music.<br>
 <br>
-<img src="Music Generation AI/Images/Music matrix.png" width="600" height="300">
+<img src="Music Generation AI/Images/Music matrix.png" width="800" height="500">
 
 
 ## Generate Music

@@ -1,7 +1,7 @@
 # Music_Generation_AI
 
 We train the model by providing it with midi files which are converted to matrix before train it.
-<img src="Music_Generation_AI/Images/Keys.png">
+<img src="Music Generation/Images/Keys.png" width="100" height="100">
 
 ## Generate Music
 

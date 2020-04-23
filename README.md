@@ -2,5 +2,5 @@
 
 ## Generate Music
 
-
-<p>python rbm.py</p>
+```html
+python rbm.py

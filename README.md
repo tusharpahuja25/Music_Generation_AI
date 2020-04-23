@@ -1,5 +1,6 @@
 # Music_Generation_AI
 
-##Generate Music
+## Generate Music
 
+```html
 <p>python rbm.py</p>
